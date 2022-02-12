@@ -1,13 +1,73 @@
-.about {
+.mainp2{
 	font-size: 25px;
-
 }
+
+
 .px {
 	font-size: 20px;
 }
 .hthree {
-	font-size: 30px;
+	font-size: 40px;
 }
 main {
-	background: dimgrey;
+	background: ;
+	font-family: Arial;
+	border: 9px solid ;
+	
+	padding: 20px 20px 20px 76px;
+	line-height: 30px;
+}
+.mainp1{
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 80px;
+}
+main p {
+	text-align: right;
+}
+main ol {
+	text-align: left;
+}
+header{
+	border: 11px solid black;
+	background-color: green;
+	text-align: center;
+	padding-top: 40px;
+}
+header img{
+	border-radius: 150px;
+	border:  3px solid;
+}
+/* first h1 in header */
+.head1{
+	font-size: 50px;
+	font-family: Arial;
+}
+.head2main{
+	font-size: 30px;
+}
+main img{
+	border: 8px solid forestgreen;
+	border-radius: 130px;
+	max-height: 50%;
+	max-width: 50%;
+	text-align: left;
+
+}
+a{
+	color: black;
+}
+a:hover{
+	color: forestgreen;
+}
+footer p{
+	margin: 30px;
+}
+.ppadding{
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+.mainpad{
+	margin-bottom: 50px;
+	font-size: 30px;
 }
